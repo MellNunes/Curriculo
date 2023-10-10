@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0; /*Espaçamento de fora */
+    padding: 0; /*Espaçamento de dentro*/
+}
+
+body {
+    background-color: #f2f2f2;
+
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+#nome {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.subtitulo {
+    font-size: 20px;
+    text-decoration: underline;
+    margin-bottom: 20px;
+    margin-top: 20px;    
+}
+
+p {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.sub_experiencia {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
